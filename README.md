@@ -2,7 +2,7 @@
 - 👀 I’m interested in all about of computer
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me leavnin5726@gmail.com
+- 📫 How to reach me yangc5726@gmail.com
 
 <!---
 LEAV-NIN/LEAV-NIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
